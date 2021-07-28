@@ -37,7 +37,7 @@ export default function BottomTabNavigator() {
         }}
       />
       <BottomTab.Screen
-        name="Send"
+        name="Pie Chart"
         component={SendNavigator}
         options={{
           tabBarIcon: ({ color }) => <TabBarIcon name="send" color={color} />,

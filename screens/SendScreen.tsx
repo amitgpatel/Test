@@ -30,7 +30,7 @@ export default function SendScreen() {
   const onRefresh = React.useCallback(() => {
     setRefreshing(true);
 
-    wait(2000).then(() => setRefreshing(false));
+    wait(1000).then(() => setRefreshing(false));
   }, []);
   const getFormatedHoldings = () => {
     for (var i = 0; i < holdings.length; i++) {
