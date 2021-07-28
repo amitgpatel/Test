@@ -15,6 +15,7 @@ export type BottomTabParamList = {
 
 export type PortfolioParamList = {
   PortfolioScreen: undefined;
+  SuccessScreen: undefined;
 };
 
 export type SendParamList = {
