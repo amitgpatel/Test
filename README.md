@@ -68,7 +68,15 @@ In this README (below), please include:
   I would make sure the search bar doesn't change location as you search typing.
   I would assign a specific color to a specific crypto.
 - A screen recording or screenshots of your app
+ https://github.com/amitgpatel/Test/blob/amit-test/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-29%20at%2019.56.53.png
+ https://github.com/amitgpatel/Test/blob/amit-test/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-29%20at%2019.57.00.png
+ https://github.com/amitgpatel/Test/blob/amit-test/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-29%20at%2019.57.16.png
+ https://github.com/amitgpatel/Test/blob/amit-test/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-29%20at%2019.57.27.png
+ https://github.com/amitgpatel/Test/blob/amit-test/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-29%20at%2019.57.37.png
+ https://github.com/amitgpatel/Test/blob/amit-test/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-29%20at%2019.57.43.png
+ https://github.com/amitgpatel/Test/blob/amit-test/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-29%20at%2019.57.48.png
  
+
 
 ## Final Product
 
