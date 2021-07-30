@@ -55,10 +55,20 @@ We will evaluate your submission on:
 In this README (below), please include:
 
 - Your goal and primary focus
+  Making sure requirements meets as described for both challenge.
+  Develop using Typescript.
+  Maintain the Architecture. 
 - The amount of time you took
+  Around 3 hours 
 - Any assumptions and/or constraints you came up with while working through this challenge
+  I assumed I don't have to clear all data when user navigates back. 
+  I assumed Pie Chart colors doesn't matter.
+  I assumed I can use any library to achieve the goal.
 - What you would change or add if you had more time
+  I would make sure the search bar doesn't change location as you search typing.
+  I would assign a specific color to a specific crypto.
 - A screen recording or screenshots of your app
+ 
 
 ## Final Product
 
